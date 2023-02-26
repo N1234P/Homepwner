@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Homepwner</string>
+    <string name="name">Name</string>
+    <string name="fluffy_mac">Fluffy Mac</string>
+    <string name="serial">Serial</string>
+    <string name="_61143318">61143318</string>
+    <string name="value">Value</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
